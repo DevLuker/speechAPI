@@ -1,0 +1,10 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ocultar {
+    display:none;
+}
+.mostrar {
+    display:block;
+}
